@@ -1,4 +1,4 @@
-# Consultant Scheduler Software
+# Appointify: Consultant Scheduler Software
 
 ## Overview
 
