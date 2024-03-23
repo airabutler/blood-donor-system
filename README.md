@@ -1,4 +1,4 @@
-# ConsultantScheduler
+# ScheduleWise Software
 
 ## Overview
 
