@@ -1,15 +1,15 @@
-# Appointify: Consultant Scheduler Software
+# Appointify: Blood Donor Management Software
 
 ## Overview
 
-This project is an appointment management system developed using C#. It allows users to manage customer records, appointments, and generate reports efficiently.
+This project is an information management system developed using C#. It allows users to manage blood donor records, appointments, and generate reports efficiently.
 
 Project Requirements
 
 The project includes the following features:
 
 	•	Login Form: Provides a login form capable of determining the user’s location and translating messages into the user’s language and one additional language.
-	•	Customer Record Management: Allows users to add, update, and delete customer records, including name, address, and phone number.
+	•	Blood Donor Record Management: Allows users to add, update, and delete customer records, including name, address, and phone number.
 	•	Appointment Management: Provides functionalities to add, update, and delete appointments, capturing appointment types and linking them to specific customer records.
 	•	Calendar Views: Offers views for the calendar by month and by week for better appointment scheduling.
 	•	Time Zone Adjustment: Automatically adjusts appointment times based on user time zones and daylight saving time.
